@@ -1,5 +1,5 @@
 {
-  "name": "finance-logger-typescript",
+  "name": "next-ts-stripe",
   "version": "0.1.0",
   "private": true,
   "scripts": {
